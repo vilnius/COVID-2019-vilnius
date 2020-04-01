@@ -17,6 +17,8 @@ Life box for medical institutions where people can contribute any medical resour
 
 Population density of people over 60 years old (Vilnius city) - [https://atviras.vplanas.lt/arcgis/rest](https://atviras.vplanas.lt/arcgis/rest/services/COVID19/Gyventoj%C5%B3_tankumas_vir%C5%A1_60_met%C5%B3/MapServer)
 
+General population density - [https://atviras.vplanas.lt/arcgis/rest](https://atviras.vplanas.lt/arcgis/rest/services/COVID19/Bendras_gyventoj%C5%B3_tankumas/MapServer)
+
 Illnesses in the country - [https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest](https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/Coronavirus_2019_nCoV_Cases/FeatureServer/2)
 
 
