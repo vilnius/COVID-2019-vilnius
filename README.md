@@ -12,6 +12,8 @@ https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c
 * Resources of medical institutions - [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsWs8IdqVc8hD_Ac9gugxw1Z8D68tNfojUx1oMqN5Qg9bTdgZYigeAaPEGDUZpRWkb7xffEE3hu9Xv/pubhtml) 
   * "Form Priemoniu likuciai"  - Available resources at medical institutions.
   * "Forma Poreikis 1 d.d."    - The amount of resources that medical institutions use per day.
+  
+* Mobilių patikros punktų testų rezultatai - [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA2LrS7OKEMSMqMr3P6NT4L9HloXU4lChHzZuwCElCRqc3K0M5mIodDCHMC9m6KA9Gd3LpgV_GTNy1/pubhtml?gid=0&single=true)
 
 * Life box for medical institutions where people can contribute any medical resources to medics (Konstitucijos pr. 3 iš Lvovo g. pusės) - [https://atviras.vplanas.lt/arcgis/rest](https://atviras.vplanas.lt/arcgis/rest/services/COVID19/GYVYBES_LANGELIS/MapServer/0) 
 
