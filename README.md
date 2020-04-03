@@ -7,6 +7,7 @@ https://karantinas.lt/
 https://karantinas.lt/esoc/
 
 https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c72/page/oZtJB
+https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c72/page/tQ2KB
 
 ## Data Sources:
 * Resources of medical institutions - [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsWs8IdqVc8hD_Ac9gugxw1Z8D68tNfojUx1oMqN5Qg9bTdgZYigeAaPEGDUZpRWkb7xffEE3hu9Xv/pubhtml) 
