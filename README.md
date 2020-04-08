@@ -5,6 +5,7 @@ https://karantinas.lt/
 
 ## Visual Dashboard:
 https://karantinas.lt/esoc/
+
 https://datastudio.google.com/embed/reporting/11be3490-f1f6-48d3-9e79-0610b852d9a6/page/VgD
 https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c72/page/oZtJB
 https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c72/page/tQ2KB
