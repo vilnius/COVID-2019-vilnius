@@ -29,7 +29,7 @@ https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c
 
 * Illnesses in the country - [https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest](https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/Coronavirus_2019_nCoV_Cases/FeatureServer/2)
 
-* Drone missions: [CSV,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDhEnXS9aAgTPGnv1AX3aQvvM5Mpx1g6i6ntoXjMj3nuGvmhAZ8H7QKABfBvDg2VRmLDW6ZtYeiyRY/pub?gid=280996184&single=true&output=csv) [WEB](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDhEnXS9aAgTPGnv1AX3aQvvM5Mpx1g6i6ntoXjMj3nuGvmhAZ8H7QKABfBvDg2VRmLDW6ZtYeiyRY/pubhtml?gid=280996184&single=true)
+* Drone missions: [CSV,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDhEnXS9aAgTPGnv1AX3aQvvM5Mpx1g6i6ntoXjMj3nuGvmhAZ8H7QKABfBvDg2VRmLDW6ZtYeiyRY/pub?gid=280996184&single=true&output=csv) [WEB](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDhEnXS9aAgTPGnv1AX3aQvvM5Mpx1g6i6ntoXjMj3nuGvmhAZ8H7QKABfBvDg2VRmLDW6ZtYeiyRY/pubhtml?gid=280996184&single=true) [API](https://services1.arcgis.com/usA3lHW20rGU6glp/arcgis/rest/services/Dronu_misijos_Google/FeatureServer)
  
 * https://github.com/vilnius/gyventojai
 
