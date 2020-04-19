@@ -16,10 +16,6 @@ https://datastudio.google.com/embed/reporting/fdac1d10-9f31-4608-970a-e7d4e5906c
   * "Forma Poreikis 1 d.d."    - The amount of resources that medical institutions use per day.
   
 * Testing results at mobile COVID-19 checking sites/places - [https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA2LrS7OKEMSMqMr3P6NT4L9HloXU4lChHzZuwCElCRqc3K0M5mIodDCHMC9m6KA9Gd3LpgV_GTNy1/pubhtml?gid=0&single=true)
-  * Chart for checking site/place at  [Savanorių g. 124](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA2LrS7OKEMSMqMr3P6NT4L9HloXU4lChHzZuwCElCRqc3K0M5mIodDCHMC9m6KA9Gd3LpgV_GTNy1/pubchart?oid=1871203266&format=image)
-  * Chart for checking site/place at [Rato g. 46](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA2LrS7OKEMSMqMr3P6NT4L9HloXU4lChHzZuwCElCRqc3K0M5mIodDCHMC9m6KA9Gd3LpgV_GTNy1/pubchart?oid=1580518932&format=image)
-  * Chart for checking site/place at [V. Gerulaičio g. 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA2LrS7OKEMSMqMr3P6NT4L9HloXU4lChHzZuwCElCRqc3K0M5mIodDCHMC9m6KA9Gd3LpgV_GTNy1/pubchart?oid=2115719351&format=image)
-  * Chart for checking site/place at [other](https://docs.google.com/spreadsheets/d/e/2PACX-1vSA2LrS7OKEMSMqMr3P6NT4L9HloXU4lChHzZuwCElCRqc3K0M5mIodDCHMC9m6KA9Gd3LpgV_GTNy1/pubchart?oid=1497371515&format=image)
   
 * Life box for medical institutions where people can contribute any medical resources to medics (Konstitucijos pr. 3 iš Lvovo g. pusės) - [https://atviras.vplanas.lt/arcgis/rest](https://atviras.vplanas.lt/arcgis/rest/services/COVID19/GYVYBES_LANGELIS/MapServer/0) 
 
